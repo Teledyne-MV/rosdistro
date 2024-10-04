@@ -9868,6 +9868,11 @@ repositories:
       url: https://github.com/ros-teleop/teleop_tools.git
       version: master
     status: maintained
+  Teledyne-MV-Stereo:
+    doc:
+      type: git
+      url: https://github.com/Teledyne-MV/rosdistro
+      version: master    
   teleop_twist_joy:
     doc:
       type: git
